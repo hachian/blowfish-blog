@@ -1,0 +1,31 @@
+.prose h2 {
+    background-color: rgb(var(--color-primary-500));
+    color: rgb(var(--color-neutral-700));
+    border-radius: 5px;
+    padding-left: 0.5em;
+}
+.prose h3 {
+    border-bottom: 3px double rgb(var(--color-primary-500));
+    padding-left: 0.5em;
+}
+.prose h4 {
+    border-left: 3px solid rgb(var(--color-primary-500));
+    padding-left: 0.5em;
+}
+.prose strong {
+    font-style: normal;
+    color: rgb(var(--color-neutral-700));
+    background-color: rgba(var(--color-primary-500), 80%);
+    border-radius: 5px;
+    padding-left: 0.12em;
+    padding-right: 0.12em;
+}
+.prose em {
+    font-style: normal;
+    text-decoration: underline; /* 下線 */
+    text-decoration-thickness: 0.2em; /* 線の太さ */
+    text-decoration-color: rgba(var(--color-primary-500), 50%); /* 線の色 */
+    text-decoration-skip-ink: none;
+    padding-left: 0.12em;
+    padding-right: 0.12em;
+}
