@@ -1,7 +1,6 @@
-# Hachian Portal
+# 
 
 {{< typeit 
-  tag=h3
   speed=70
   breakLines=false
   loop=false
