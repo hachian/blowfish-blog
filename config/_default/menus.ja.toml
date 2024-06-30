@@ -74,32 +74,33 @@
   weight = 10
 
 [[main]]
-  name = "Topics"
-  pageRef = "topics"
+  name = "Tags"
+  pageRef = "tags"
   weight = 20
 
-[[main]]
-  pre = "github"
-  name = "GitHub"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 30
+# [[main]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 30
 
 [[main]]
-  identifier = "github2"
+  identifier = "github"
   pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
+  url = "https://github.com/hachian"
   weight = 40
+
+[[main]]
+  identifier = "twitter"
+  pre = "twitter"
+  url = "https://twitter.com/_hachian"
+  weight = 50
+
+[[main]]
+  identifier = "x-twitter"
+  pre = "x-twitter"
+  url = "https://x.com/_hachian"
+  weight = 60
 
 [[footer]]
   name = "Privacy"
-  url = "https://external-link"
-
-[[subnavigation]]
-  name = "An interesting topic"
-  pageRef = "tags/interesting-topic"
-  weight = 10
-
-[[subnavigation]]
-  name = "My Awesome Category"
-  pageRef = "categories/awesome"
-  weight = 20
+  pageRef = "disclaimer"
