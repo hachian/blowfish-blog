@@ -1,8 +1,8 @@
 ---
-date: 2024-02-02T04:14:54-08:00
+date: 2024-06-30
 draft: false
 author: ハチアン
-title: another-postのタイトル
+title: マークダウンお試し
 categories: ["test"]
 tags: ["markdown", "cat"]
 ---
