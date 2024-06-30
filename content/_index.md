@@ -1,3 +1,11 @@
-# `content`直下の`_index.md`
+# Hachian Portal
 
-このファイルは`content`直下の`_index.md`です。
+{{< typeit 
+  tag=h3
+  speed=70
+  breakLines=false
+  loop=false
+  lifeLike=true
+>}}
+<code>import hachian as hc</code>
+{{< /typeit >}}
