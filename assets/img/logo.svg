@@ -1,22 +1,9 @@
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="bg-gradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
-      <stop offset="0%" style="stop-color:#222;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:black;stop-opacity:1" />
-    </radialGradient>
-  </defs>
-
-  <rect width="100%" height="100%" fill="url(#bg-gradient)"/>
-  
-  <g transform="rotate(45 100 100)">
-    <circle cx="100" cy="100" r="90" fill="none" stroke="red" stroke-width="4" opacity="0.7" />
-    <circle cx="100" cy="100" r="60" fill="none" stroke="gold" stroke-width="4" opacity="0.7" />
-    <circle cx="100" cy="100" r="30" fill="none" stroke="green" stroke-width="4" opacity="0.7" />
-  </g>
-
-  <g transform="rotate(-45 100 100)">
-    <rect x="-50" y="70" width="300" height="20" fill="red" opacity="0.2" />
-    <rect x="-50" y="90" width="300" height="20" fill="gold" opacity="0.2" />
-    <rect x="-50" y="110" width="300" height="20" fill="green" opacity="0.2" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256px" height="256px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g><path style="opacity:0.997" fill="#001d02" d="M 39.5,-0.5 C 76.8333,-0.5 114.167,-0.5 151.5,-0.5C 101.167,50.5 50.5,101.167 -0.5,151.5C -0.5,114.5 -0.5,77.5 -0.5,40.5C 4.7193,18.947 18.0526,5.28038 39.5,-0.5 Z"/></g>
+<g><path style="opacity:1" fill="#770118" d="M 151.5,-0.5 C 172.5,-0.5 193.5,-0.5 214.5,-0.5C 217.246,0.251327 219.913,1.25133 222.5,2.5C 148.833,75.5 75.5,148.833 2.5,222.5C 1.25133,219.913 0.251327,217.246 -0.5,214.5C -0.5,193.5 -0.5,172.5 -0.5,151.5C 50.5,101.167 101.167,50.5 151.5,-0.5 Z"/></g>
+<g><path style="opacity:0.997" fill="#fdc516" d="M 222.5,2.5 C 240.48,9.1395 251.48,21.8062 255.5,40.5C 255.5,41.1667 255.5,41.8333 255.5,42.5C 184.25,112.25 113.416,182.583 43,253.5C 42.5357,254.094 42.369,254.761 42.5,255.5C 41.8333,255.5 41.1667,255.5 40.5,255.5C 21.8062,251.48 9.1395,240.48 2.5,222.5C 75.5,148.833 148.833,75.5 222.5,2.5 Z"/></g>
+<g><path style="opacity:1" fill="#047a42" d="M 255.5,42.5 C 255.5,66.5 255.5,90.5 255.5,114.5C 208.167,161.167 161.167,208.167 114.5,255.5C 90.5,255.5 66.5,255.5 42.5,255.5C 42.369,254.761 42.5357,254.094 43,253.5C 113.416,182.583 184.25,112.25 255.5,42.5 Z"/></g>
+<g><path style="opacity:0.996" fill="#001e02" d="M 255.5,114.5 C 255.5,147.833 255.5,181.167 255.5,214.5C 250.167,236.5 236.5,250.167 214.5,255.5C 181.167,255.5 147.833,255.5 114.5,255.5C 161.167,208.167 208.167,161.167 255.5,114.5 Z"/></g>
 </svg>
