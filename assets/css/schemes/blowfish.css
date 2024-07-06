@@ -2,16 +2,16 @@
 :root {
   --color-neutral: 220, 255, 244;
   /* Gray */
-  --color-neutral-50: 248, 250, 252;
-  --color-neutral-100: 241, 245, 249;
-  --color-neutral-200: 226, 232, 240;
-  --color-neutral-300: 203, 213, 225;
-  --color-neutral-400: 148, 163, 184;
-  --color-neutral-500: 100, 116, 139;
-  --color-neutral-600: 71, 85, 105;
-  --color-neutral-700: 51, 65, 85;
-  --color-neutral-800: 30, 41, 59;
-  --color-neutral-900: 15, 23, 42;
+  --color-neutral-50: 250, 250, 250;
+  --color-neutral-100: 245, 245, 245;
+  --color-neutral-200: 232, 232, 232;
+  --color-neutral-300: 213, 213, 213;
+  --color-neutral-400: 163, 163, 163;
+  --color-neutral-500: 116, 116, 116;
+  --color-neutral-600: 85, 85, 85;
+  --color-neutral-700: 65, 65, 65;
+  --color-neutral-800: 41, 41, 41;
+  --color-neutral-900: 23, 23, 23;
   /* Yellow (#fec617) */
   --color-primary-50: 255, 251, 235;
   --color-primary-100: 255, 247, 214;
