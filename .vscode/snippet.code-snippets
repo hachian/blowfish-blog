@@ -1,0 +1,72 @@
+{
+	// Place your blowfish ワークスペース snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"tips": {
+		"scope": "markdown",
+		"prefix": ["tips", "alert-tips", "callout-tips", "admonition-tips"],
+		"body": [
+			"{{< alert icon=\"comment\" cardColor=\"#0c7a02\" iconColor=\"#e8ffd7\" textColor=\"#e8ffd7\" >}}",
+			"$1",
+			"{{< /alert >}}",
+		],
+	},
+	"info": {
+		"scope": "markdown",
+		"prefix": ["info", "alert-info", "callout-info", "admonition-info"],
+		"body": [
+			"{{< alert icon=\"lightbulb\" cardColor=\"#027a70\" iconColor=\"#d7fff7\" textColor=\"#d7fff7\" >}}",
+			"$1",
+			"{{< /alert >}}",
+		],
+	},
+	"note": {
+		"scope": "markdown",
+		"prefix": ["note", "alert-note", "callout-note", "admonition-note"],
+		"body": [
+			"{{< alert icon=\"pencil\" cardColor=\"#020c7a\" iconColor=\"#d7e0ff\" textColor=\"#d7e0ff\" >}}",
+			"$1",
+			"{{< /alert >}}",
+		],
+	},
+	"coffee": {
+		"scope": "markdown",
+		"prefix": ["coffee", "alert-coffee", "callout-coffee", "admonition-coffee"],
+		"body": [
+			"{{< alert icon=\"mug-hot\" cardColor=\"#70027a\" iconColor=\"#ffd7ff\" textColor=\"#ffd7ff\" >}}",
+			"$1",
+			"{{< /alert >}}",
+		],
+	},
+	"error": {
+		"scope": "markdown",
+		"prefix": ["error", "alert-error", "callout-error", "admonition-error"],
+		"body": [
+			"{{< alert icon=\"skull-crossbones\" cardColor=\"#7a020c\" iconColor=\"#ffd7de\" textColor=\"#ffd7de\" >}}",
+			"$1",
+			"{{< /alert >}}",
+		],
+	},
+	"warning": {
+		"scope": "markdown",
+		"prefix": ["warning", "alert-warning", "callout-warning", "admonition-warning"],
+		"body": [
+			"{{< alert icon=\"triangle-exclamation\" cardColor=\"#785500\" iconColor=\"#ffe8b8\" textColor=\"#ffe8b8\" >}}",
+			"$1",
+			"{{< /alert >}}",
+		],
+	},
+}

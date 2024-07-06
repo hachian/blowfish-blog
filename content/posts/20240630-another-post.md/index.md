@@ -1,6 +1,6 @@
 ---
 date: 2024-06-30
-draft: true
+draft: false
 author: ハチアン
 title: マークダウンお試し
 categories: ["test"]
@@ -104,40 +104,48 @@ def func(a, b, c=3):
 ### note
 
 {{< alert >}}
-**Warning!** This action is destructive!
+どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
 {{< /alert >}}
 
-something between
+### custom icon
 
 {{< alert "twitter" >}}
 Don't forget to [follow me](https://twitter.com/nunocoracao) on Twitter.
 {{< /alert >}}
 
-```
-something between
-```
 
-{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
-This is an error!
+### 琥珀の煌めき - Amber Radiance ✨🍯💎
+
+{{< alert icon="triangle-exclamation" cardColor="#785500" iconColor="#ffe8b8" textColor="#ffe8b8" >}}
+どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
 {{< /alert >}}
 
-combination
+### 新緑の息吹 - Lime Zest 🌱🍃🥝
 
-{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
-```python
-import numpy as np
-print(123)
-print("abc")
-for i in [1, 2, 3]:
-    if i == 2:
-        break
-    print("meow")  # test
-def func(a, b, c=3):
-    print(a + b + c)
-    for i in [1, 2, 3]:
-        print("どこで生れたかとんと見当けんとうがつかぬ。何でも薄暗いじめじめした所でニャーニャー(meow, meow)泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。")
-```
+{{< alert icon="check" cardColor="#0c7a02" iconColor="#e8ffd7" textColor="#e8ffd7" >}}
+どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
+{{< /alert >}}
 
-> どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
+### 碧湖の輝き - Teal Oasis 🐠🏝️🌊
 
+{{< alert icon="comment" cardColor="#027a70" iconColor="#d7fff7" textColor="#d7fff7" >}}
+どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
+{{< /alert >}}
+
+### 夜明けの青空 - Sapphire Sky 🌅🌠💠
+
+{{< alert icon="star" cardColor="#020c7a" iconColor="#d7e0ff" textColor="#d7e0ff" >}}
+どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
+{{< /alert >}}
+
+### 桜夢幻 - Magenta Dream 🌸💜🔮
+
+{{< alert icon="moon" cardColor="#70027a" iconColor="#ffd7ff" textColor="#ffd7ff" >}}
+どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
+{{< /alert >}}
+
+### 紅灯の囁き - Ruby Blush 🍷💃🌆
+
+{{< alert icon="music" cardColor="#7a020c" iconColor="#ffd7de" textColor="#ffd7de" >}}
+どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
 {{< /alert >}}
