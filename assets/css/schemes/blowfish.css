@@ -1,6 +1,6 @@
 /* Blowfish scheme */
 :root {
-  --color-neutral: 255, 255, 255;
+  --color-neutral: 220, 255, 244;
   /* Gray */
   --color-neutral-50: 248, 250, 252;
   --color-neutral-100: 241, 245, 249;
@@ -12,26 +12,26 @@
   --color-neutral-700: 51, 65, 85;
   --color-neutral-800: 30, 41, 59;
   --color-neutral-900: 15, 23, 42;
-  /* Yellow */
-  --color-primary-50: 255, 227, 139;
-  --color-primary-100: 254, 221, 116;
-  --color-primary-200: 254, 215, 93;
-  --color-primary-300: 254, 209, 69;
-  --color-primary-400: 254, 204, 46;
+  /* Yellow (#fec617) */
+  --color-primary-50: 255, 251, 235;
+  --color-primary-100: 255, 247, 214;
+  --color-primary-200: 255, 240, 184;
+  --color-primary-300: 254, 231, 143;
+  --color-primary-400: 254, 218, 92;
   --color-primary-500: 254, 198, 23;
-  --color-primary-600: 229, 178, 21;
-  --color-primary-700: 203, 158, 18;
-  --color-primary-800: 178, 139, 16;
-  --color-primary-900: 152, 119, 14;
-  /* Cyan */
-  --color-secondary-50:  244, 235, 237;
-  --color-secondary-100: 233, 214, 218;
-  --color-secondary-200: 223, 194, 200;
-  --color-secondary-300: 212, 173, 181;
-  --color-secondary-400: 201, 153, 163;
-  --color-secondary-500: 190, 133, 145;
-  --color-secondary-600: 179, 112, 126;
-  --color-secondary-700: 169, 92, 108;
-  --color-secondary-800: 158, 71, 89;
-  --color-secondary-900: 147, 51, 71;
+  --color-primary-600: 227, 171, 0;
+  --color-primary-700: 191, 140, 0;
+  --color-primary-800: 156, 112, 0;
+  --color-primary-900: 120, 85, 0;
+  /* Burgundy (#780019) */
+  --color-secondary-50: 251, 235, 237;
+  --color-secondary-100: 246, 215, 220;
+  --color-secondary-200: 237, 176, 185;
+  --color-secondary-300: 228, 137, 150;
+  --color-secondary-400: 219, 98, 115;
+  --color-secondary-500: 210, 59, 80;
+  --color-secondary-600: 168, 47, 64;
+  --color-secondary-700: 126, 35, 48;
+  --color-secondary-800: 84, 24, 32;
+  --color-secondary-900: 42, 12, 16;
 }
