@@ -102,5 +102,5 @@
   weight = 60
 
 [[footer]]
-  name = "Privacy"
+  name = "Disclaimer"
   pageRef = "disclaimer"
