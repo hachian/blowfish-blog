@@ -3,6 +3,8 @@ date: 2024-06-30
 draft: false
 author: ハチアン
 title: プライバシーポリシーと免責事項
+showComments: false
+showRelatedContent: false
 ---
 
 ## プライバシーポリシー
