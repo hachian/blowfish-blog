@@ -112,37 +112,37 @@ Don't forget to [follow me](https://twitter.com/nunocoracao) on Twitter.
 {{< /alert >}}
 
 
-### 琥珀の煌めき - Amber Radiance ✨🍯💎
+### warningは黄色
 
 {{< alert icon="triangle-exclamation" cardColor="#785500" iconColor="#ffe8b8" textColor="#ffe8b8" >}}
 どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
 {{< /alert >}}
 
-### 新緑の息吹 - Lime Zest 🌱🍃🥝
+### tipsは緑
 
 {{< alert icon="check" cardColor="#0c7a02" iconColor="#e8ffd7" textColor="#e8ffd7" >}}
 どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
 {{< /alert >}}
 
-### 碧湖の輝き - Teal Oasis 🐠🏝️🌊
+### infoは水色
 
 {{< alert icon="comment" cardColor="#027a70" iconColor="#d7fff7" textColor="#d7fff7" >}}
 どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
 {{< /alert >}}
 
-### 夜明けの青空 - Sapphire Sky 🌅🌠💠
+### noteは青
 
 {{< alert icon="star" cardColor="#020c7a" iconColor="#d7e0ff" textColor="#d7e0ff" >}}
 どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
 {{< /alert >}}
 
-### 桜夢幻 - Magenta Dream 🌸💜🔮
+### coffeeは紫
 
 {{< alert icon="moon" cardColor="#70027a" iconColor="#ffd7ff" textColor="#ffd7ff" >}}
 どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
 {{< /alert >}}
 
-### 紅灯の囁き - Ruby Blush 🍷💃🌆
+### errorは赤
 
 {{< alert icon="music" cardColor="#7a020c" iconColor="#ffd7de" textColor="#ffd7de" >}}
 どこで生れたか**とんと**見当けんとうがつかぬ。何でも薄暗い*じめじめした*所で`ニャーニャー(meow, meow)`泣いていた事だけは記憶している。吾輩はここで始めて<mark>人間</mark>というものを見た。
