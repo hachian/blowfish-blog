@@ -1,21 +1,25 @@
 .prose h2 {
-    background-color: rgb(var(--color-primary-500));
-    color: rgb(var(--color-neutral-700));
+    background-image: linear-gradient(45deg, rgba(var(--color-primary-500), 0.15) 25%, transparent 25%, transparent 75%, rgba(var(--color-primary-500), 0.15) 75%, rgba(var(--color-primary-500), 0.15)),
+                      linear-gradient(45deg, rgba(var(--color-primary-500), 0.15) 25%, transparent 25%, transparent 75%, rgba(var(--color-primary-500), 0.15) 75%, rgba(var(--color-primary-500), 0.15));
+    background-size: 20px 20px;
+    background-position: 0 0, 10px 10px;
+    color: rgb(var(--color-neutral-300));
     border-radius: 5px;
     padding: 0.5em 0 0.5em 0.5em;
 }
+
 .prose h3 {
-    border-bottom: 3px double rgb(var(--color-primary-500));
+    border-bottom: 3px double rgba(var(--color-primary-500), 0.15);
     padding-left: 0.5em;
 }
 .prose h4 {
-    border-left: 3px solid rgb(var(--color-primary-500));
+    border-left: 3px solid rgba(var(--color-primary-500), 0.15);
     padding-left: 0.5em;
 }
 .prose strong {
     font-style: normal;
-    color: rgb(var(--color-neutral-700));
-    background-color: rgba(var(--color-primary-500), 80%);
+    color: rgb(var(--color-neutral-300));
+    background-color: rgba(var(--color-primary-500), 0.15);
     border-radius: 5px;
     padding-left: 0.12em;
     padding-right: 0.12em;
@@ -24,7 +28,7 @@
     font-style: normal;
     text-decoration: underline; /* 下線 */
     text-decoration-thickness: 0.2em; /* 線の太さ */
-    text-decoration-color: rgba(var(--color-primary-500), 50%); /* 線の色 */
+    text-decoration-color: rgba(var(--color-primary-500), 0.15); /* 線の色 */
     text-decoration-skip-ink: none;
     padding-left: 0.12em;
     padding-right: 0.12em;
