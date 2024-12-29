@@ -69,4 +69,13 @@
 			"{{< /alert >}}",
 		],
 	},
+	"gray": {
+		"scope": "markdown",
+		"prefix": ["gray", "alert-gray", "callout-gray", "admonition-gray"],
+		"body": [
+			"{{< alert icon=\"ghost\" cardColor=\"#41414B\" iconColor=\"#D5D5E9\" textColor=\"#D5D5E9\" >}}",
+			"$1",
+			"{{< /alert >}}",
+		],
+	},
 }

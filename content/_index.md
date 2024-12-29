@@ -13,7 +13,7 @@
 ---
 
 <div style="text-align: left; font-size: 0.9em">
-{{< alert icon="lightbulb" cardColor="#545454" iconColor="#d7fff7" textColor="#d7fff7" >}}
+{{< alert icon="lightbulb" cardColor="#41414B" iconColor="#D5D5E9" textColor="#D5D5E9" >}}
 
 記事には[Amazonアソシエイト](https://affiliate.amazon.co.jp/help/node/topic/GHQNZAU6669EZS98)によるリンクが含まれます。
 詳細は[プライバシーポリシーと免責事項](/disclaimer)をご確認ください。
