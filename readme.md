@@ -15,3 +15,7 @@
 ## デプロイする
 
 - `.deploy.local.bat`を実行
+
+## ホームページ
+
+https://hachian.com/
