@@ -4,8 +4,8 @@ draft: false
 author: ハチアン
 title: マークダウンお試し
 categories: ["test"]
-tags: ["markdown", "cat"]
-series: ["test"]
+tags: ["#markdown", "#cat"]
+series: ["test-series"]
 series_order: 1
 ---
 

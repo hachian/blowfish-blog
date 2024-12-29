@@ -4,8 +4,8 @@ draft: false
 author: ハチアン
 title: 2つ目の記事
 categories: ["test"]
-tags: ["markdown", "cat"]
-series: ["test"]
+tags: ["#markdown", "#cat"]
+series: ["test-series"]
 series_order: 2
 lastmod: 2024-12-29
 ---
